@@ -20,6 +20,7 @@
 
 **BUGS:**
 
+- You must erase manually cache and cookies.
 - There is still a feature: it has home page!
 
 ## The Goal
