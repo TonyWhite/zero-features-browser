@@ -11,12 +11,14 @@
 - No Wayland incompatibility
 - No Xorg incompatibility
 - Very few dependencies
+- If you Rust, just Go and Swift away from Python!
 
 **CONS:**
 
 - No address bar
 - No tabs
 - No optimization
+- Python: the inevitability of an incompatible future.
 
 **BUGS:**
 
